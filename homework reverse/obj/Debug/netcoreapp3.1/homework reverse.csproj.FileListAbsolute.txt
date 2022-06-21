@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.exe
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.deps.json
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.runtimeconfig.json
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.dll
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\bin\Debug\netcoreapp3.1\homework reverse.pdb
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.dll
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.pdb
+C:\Users\ASUS\source\repos\reverse  method accepts\homework reverse\homework reverse\obj\Debug\netcoreapp3.1\homework reverse.genruntimeconfig.cache
